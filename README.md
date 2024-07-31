@@ -14,6 +14,7 @@ A Discord message purging tool, which can be used to delete all messages (includ
 ## Discord Token Retrieval
 
 You can get your discord token by pressing ctrl-shift-i on the Discord website, going to console and copy pasting this:
+
 `allow pasting`
 `(
     webpackChunkdiscord_app.push(
