@@ -1,27 +1,19 @@
-# discord-dm-purger
-A dm purging tool to get rid of all messages for a specific user.
+# discord-message-purger
+A Discord message purging tool, which can be used to delete all messages (including message replies) with a specific user, or in a specific channel.
 
-# Guide (EXE BUILD)
-
-* Get latest build from githubs releases page and download the exe
-* Run the exe (no python required)
-* Enter your discord token, scroll down to see how to get it
-* Enter the persons dms you want to purge, and copy their userid into the program
-* Enjoy
-
-# Guide (Python Build)
+# Installation 
 
 * Get the latest version of python installed
-* Run this command in a command prompt "pip install discord discord.py-self"
+* Run this command in a command prompt `"pip install discord discord.py-self"`
 * Download main.py
 * Run main.py
 * Enter your discord token, scroll down to see how to get it
 * Enter the persons dms you want to purge, and copy their userid into the program
 * Enjoy
 
-# Guide (Discord Token Retrieval)
+# Discord Token Retrieval
 
-You can get your discord token by pressing ctrl-shift-i in the discord app or website, going to console and copy / pasting this:
+You can get your discord token by pressing ctrl-shift-i on the Discord website, going to console and copy pasting this:
 
 (
     webpackChunkdiscord_app.push(
