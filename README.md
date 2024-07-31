@@ -5,7 +5,7 @@ A Discord message purging tool, which can be used to delete all messages (includ
 
 # Usage - Python 
 1. Install the latest version of Python3.
-2. Install the requirements: `pip install discord discord.py-self`
+2. Install the requirements: `pip install asyncio discord discord.py-self`
 3. Run the script: `python3 purger.py`
 4. Select option `1` or `2` for purging messages with a user or channel.
 5. Enter your Discord token.
