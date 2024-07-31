@@ -15,7 +15,7 @@ A Discord message purging tool, which can be used to delete all messages (includ
 
 You can get your discord token by pressing ctrl-shift-i on the Discord website, going to console and copy pasting this:
 
-(
+```(
     webpackChunkdiscord_app.push(
         [
             [''],
@@ -31,3 +31,4 @@ You can get your discord token by pressing ctrl-shift-i on the Discord website, 
 ).find(
     m => m?.exports?.default?.getToken !== void 0
 ).exports.default.getToken()
+```
