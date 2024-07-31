@@ -1,7 +1,7 @@
 # discord-message-purger
 A Discord message purging tool, which can be used to delete all messages (including message replies) with a specific user, or in a specific channel.
 
-**Note:** Automating user accounts is against Discord Terms of Service. 
+**Note:** Automating user accounts is against Discord's Terms of Service. 
 
 # Usage - Python 
 1. Install the latest version of Python3.
